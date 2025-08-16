@@ -74,4 +74,4 @@ If you have suggestions or improvements, feel free to **fork this repo** or open
 
 ---
 
-👨‍💻 *Made with ❤️ by [Your Name]*  
+👨‍💻 *Made with ❤️ by Aditya  
