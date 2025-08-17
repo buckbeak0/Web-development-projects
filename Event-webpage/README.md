@@ -29,8 +29,8 @@ The webpage contains:
 
 1. Clone the repository and navigate into the folder:  
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/buckbeak0/Web-development-projects/Event-webpage
+   cd <Folder>
    ```
 
 2. Open the webpage:  
